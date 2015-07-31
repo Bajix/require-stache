@@ -1,0 +1,25 @@
+{
+  "name": "require-stache",
+  "version": "0.0.1",
+  "description": "RequireJS Plugin for loading and optimizing CanJS Stache files",
+  "main": "assets/stache.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -t 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bajix/require-stache.git"
+  },
+  "keywords": [
+    "RequireJS",
+    "CanJS",
+    "Mustache",
+    "Stache"
+  ],
+  "author": "Thomas Sieverding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bajix/require-stache/issues"
+  },
+  "homepage": "https://github.com/Bajix/require-stache#readme"
+}
